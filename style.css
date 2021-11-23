@@ -1,0 +1,40 @@
+body {
+  color: black;
+  background-color: PINK;
+}
+
+h1 {
+  color: purple;
+  text-decoration: underline;
+  font-family: Century gothic serif;
+}
+
+h2 {
+  color: coral;
+  font-family: Century gothic serif;
+}
+
+h3 {
+  color: darkturquoise;
+  font-family: Century gothic serif;
+}
+
+h4 {
+  color: darkmagenta;
+  font-family: Century gothic serif;
+}
+
+p {
+  font-family: cursive;
+  font-size: 1.2em;
+}
+
+div {
+  font-family: Franklin Gothic Medium;
+  font-size: 15px;
+}
+
+ul {
+  font-style: italic;
+  font-size: 20px;
+}
